@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532260007190.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3488184997",
+    "id" : "DB008B52",
+    "lastKnownWriteTime" : 1532260103,
+    "last_content_update" : 1532260103278,
+    "path" : "~/rlang/task/180713코딩과제수행.R",
+    "project_path" : "180713코딩과제수행.R",
+    "properties" : {
+        "cursorPosition" : "267,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

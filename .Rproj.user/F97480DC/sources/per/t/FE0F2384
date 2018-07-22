@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532260020556.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2929724486",
+    "id" : "FE0F2384",
+    "lastKnownWriteTime" : 1532260129,
+    "last_content_update" : 1532260129090,
+    "path" : "~/rlang/task/180720task(0707과제).R",
+    "project_path" : "180720task(0707과제).R",
+    "properties" : {
+        "cursorPosition" : "21,30",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
