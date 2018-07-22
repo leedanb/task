@@ -1,0 +1,40 @@
+# 1부터 100까지 중 홀수의 합은 다음과 같습니다.
+# oddCount <- function(x){
+#  sum <- 0
+#  for(i in x){
+#    if(i %% 2 == 1){
+#      sum <- sum + i
+#    }
+#  }
+#  return (sum)
+# }
+#
+# oddCount(c(1:100))
+# 이를 응용하여 다음 문제를 해결하세요.
+# [문제004] 1부터 10000까지 정수중 3의 배수의 갯수는?
+
+oddCount <- function(x){
+  sum<-0
+  for(i in x){
+    if(i %% 3 == 0){
+      sum<-sum+1
+    }
+  }
+  return(sum)
+}
+oddCount(1:10000)
+
+getwd()
+setwd("C:\\Users\\sweetrain\\Documents\\rlang\\task")
+getwd()
+
+length(oddCount(1:10000))
+
+a <- function(x){
+  b<-0
+  for(i in x){
+    if(i %% 3 == 0)
+      b<-b+1
+  }
+  return(b)}
+a(1:1000000)

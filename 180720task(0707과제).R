@@ -1,0 +1,11 @@
+list.files()
+getwd()
+
+length(lynx)
+order(lynx)
+increasing(lynx)
+
+order(lynx, increasing)
+lynx[order(lynx)]
+
+order(increasing = TRUE, lynx)
